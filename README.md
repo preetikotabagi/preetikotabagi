@@ -1,7 +1,9 @@
 ## Hi, I'm Preeti Rajakumar Kotabagi 👋
 
-Computer Science student passionate about building real-world projects
-and strengthening core CS fundamentals.
+Computer Science student passionate about building real-world projects 
+and strengthening core CS fundamentals through hands-on work.
+Focused on learning by building, not just following tutorials.
+Currently exploring opportunities to grow as a software engineer.
 
 Currently working on:
 - Endless Runner Game (Unity + C#)
